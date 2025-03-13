@@ -1,4 +1,4 @@
-# EV--DATA-ANALYSIS
+# EV-DATA-ANALYSIS
 ## 📊 Project Overview
 This repository contains an **Electric Vehicle (EV) Analytics Dashboard**, developed to analyze the adoption trends, market share, and performance of EVs across different manufacturers, states, and model years. The dashboard was created using **Power BI and Tableau**, providing data-driven insights into the electric vehicle market.
 
